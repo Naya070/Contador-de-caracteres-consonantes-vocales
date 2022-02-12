@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Palabra
+comment0.text=\r\n\ Con\ esta\ clase\ podr\u00E1s\ construir\ un\ objeto\ palabra\ de\ tipo\ String.\r\n\ Utilizando\ el\ m\u00E9todo\ de\ esta\ clase\ podr\u00E1s\ conocer\ la\ cantidad\ de\ letras\ de\ la\ palabra.\r\n\ Esta\ clase\ es\ una\ clase\ madre.\r\n\ @author\ (Nayarith\ del\ Carmen\ Jim\u00E9nez\ Sierra\ 2017100188)\ \r\n\ @version\ (1\ -\ 11\ de\ Julio\ de\ 2021)\r\n
+comment1.params=Palab
+comment1.target=Palabra(java.lang.String)
+comment1.text=\r\n\ Constructor\ de\ objetos\ de\ la\ clase\ Palabra\r\n\ Escriba\ una\ y\ s\u00F3lo\ una\ palabra,\ evite\ el\ uso\ de\ n\u00FAmeros,\ saltos\ de\ l\u00EDnea\ o\ espacios.\r\n\ Recuerde\ usar\ comillas\ al\ escribir\ su\ palabra\r\n\ Ejemplo\:\ "Hola"\r\n\ \r\n
+comment2.params=
+comment2.target=java.lang.String\ getPalab()
+comment2.text=\r\n\ M\u00E9todo\ para\ ver\ palabra\r\n
+comment3.params=
+comment3.target=int\ N\u00FAmeroDeLetras()
+comment3.text=\r\n\ \u00C9ste\ m\u00E9todo\ permite\ conocer\ el\ n\u00FAmero\ de\ letras\ que\ tiene\ la\ palabra\ del\ objeto\ Palabra.\r\n\ Ejemplo\:\ "Hola"\ devuelve\:\ 4\r\n
+numComments=4

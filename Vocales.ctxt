@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Vocales
+comment0.text=\r\n\ Esta\ subclase\ tiene\ un\ m\u00E9todo\ que\ te\ permite\ saber\ cu\u00E1ntas\ vocales\ tiene\ tu\ palabra.\r\n\ \r\n\ @author\ (Nayarith\ del\ Carmen\ Jim\u00E9nez\ Sierra\ 2017100188)\ \r\n\ @version\ (1\ -\ 11\ de\ Julio\ de\ 2021)\r\n
+comment1.params=Palab
+comment1.target=Vocales(java.lang.String)
+comment1.text=\r\n\ Constructor\ para\ objetos\ de\ la\ subclase\ Vocales\r\n
+comment2.params=
+comment2.target=java.lang.String\ VocalesM\u00E9todo()
+comment2.text=\r\n\ \u00C9ste\ m\u00E9todo\ permite\ conocer\ la\ cantidad\ de\ vocales\ en\ la\ palabra\r\n
+comment3.params=
+comment3.target=java.lang.String\ ConsonantesM\u00E9todo()
+comment3.text=\r\n\ \u00C9ste\ m\u00E9todo\ permite\ conocer\ la\ cantidad\ de\ consonantes\ en\ la\ palabra\r\n
+numComments=4
